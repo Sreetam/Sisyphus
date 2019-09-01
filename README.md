@@ -35,3 +35,13 @@ https://www.asiaindex.co.in/indices/equity/
 
 The above is the source for index data.
 ***
+***
+LSTM
+Long Short-Term Memory (LSTM) models are a type of recurrent neural network capable of learning sequences of observations.
+
+This may make them a network well suited to time series forecasting.
+
+An issue with LSTMs is that they can easily overfit training data, reducing their predictive skill.
+
+Dropout is a regularization method where input and recurrent connections to LSTM units are probabilistically excluded from activation and weight updates while training a network. This has the effect of reducing overfitting and improving model performance.
+***
