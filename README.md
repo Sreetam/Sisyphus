@@ -36,7 +36,7 @@ https://www.asiaindex.co.in/indices/equity/
 The above is the source for index data.
 ***
 ***
-LSTM
+# LSTM
 Long Short-Term Memory (LSTM) models are a type of recurrent neural network capable of learning sequences of observations.
 
 This may make them a network well suited to time series forecasting.
