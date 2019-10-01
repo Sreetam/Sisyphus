@@ -140,8 +140,8 @@ def predict(pos):
     plt.xlabel('Time')
     plt.ylabel('Index')
     plt.legend()
-    plt.savefig('Magnified_Prediction_Chart:_' + str(cols[pos]) + '.png')
-    # plt.show()
+    #plt.savefig('Magnified_Prediction_Chart:_' + str(cols[pos]) + '.png')
+    plt.show()
     plt.close()
 
     plt.plot([0], [0])
@@ -151,8 +151,8 @@ def predict(pos):
     plt.xlabel('Time')
     plt.ylabel('Index')
     plt.legend()
-    plt.savefig('Real_Prediction_Chart:_' + str(cols[pos]) + '.png')
-    # plt.show()
+    #plt.savefig('Real_Prediction_Chart:_' + str(cols[pos]) + '.png')
+    plt.show()
     plt.close()
 
 
