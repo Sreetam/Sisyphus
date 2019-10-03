@@ -20,6 +20,8 @@ monthly-crude-oil-price.csv: Crude oil price in the date range
 
 nomintr.csv: Nominal effective exchange rate for G20 countries **for the previous year (2008-2017)**
 
+**data/: Contains all the results of the prediction system.**
+
 ***
 **Sources of data:**
 ***
