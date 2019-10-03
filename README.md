@@ -12,7 +12,9 @@ Range of data: **July 2009- 31 December 2018**. All the datasets have some data 
 
 cpi.csv: csv file showing yearly change in inflation rate for G20 countries **for the previous year (2008-2017)**
 
-indices-data1.csv: Index data for 5 different indices. There are two categories: data based at 100 and real data
+BSE_indices_data.csv: Index data for 5 different indices. There are two categories: data based at 100 and real data
+
+nifty50twoyearsrecentdata.csv: Index data of Nifty 50 from October 3, 2017 to September 30, 2017
 
 monthly-crude-oil-price.csv: Crude oil price in the date range
 
