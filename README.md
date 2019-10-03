@@ -38,6 +38,13 @@ https://www.asiaindex.co.in/indices/equity/
 The above is the source for index data.
 ***
 ***
+NSE of India Website
+
+https://www.nseindia.com/products/content/equities/indices/historical_index_data.html
+
+The source for Nifty 50 data
+***
+***
 # LSTM
 Long Short-Term Memory (LSTM) models are a type of recurrent neural network capable of learning sequences of observations.
 
